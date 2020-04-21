@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito|Oxygen+Mono|Roboto+Condensed&display=swap');
+
+* {
+    font-family: 'Oxygen Mono', 'Roboto Condensed', sans-serif;
+}
+.c-header.c-header-fixed{
+    top:0px;
+}
+
+.click-file{
+    cursor:pointer;
+}
+
+.site-title {
+    font-family: 'Oxygen Mono', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #7A8393;
+}
